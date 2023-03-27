@@ -1,0 +1,60 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status{
+    font-size: 20px;
+}
+
+.bed_room{
+    background-color: rgb(240, 109, 172);
+    color: black;
+    width: 200px;
+}
+
+.tv_ac{
+    background-color: rgb(240, 194, 109);
+    color: black;
+    width: 200px;
+}
+
+.desk{
+    background-color: rgb(243, 243, 122);
+    color: black;
+    width: 200px;
+}
+
+.bottles{
+    background-color: lightgreen;
+    color: black;
+    width: 200px;
+}
+
+.fruit_basket{
+    background-color: lightskyblue;
+    color: black;
+    width: 200px;
+}
+
+body{
+    background-image: url("rainbow.png");
+}
+
+h1{
+    color: rgb(123, 6, 158);
+}
+
+button{
+    border-radius: 10px;
+}
+
+#status{
+    font-size: 20px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px cadetblue;
+    border-radius: 10px;
+}
